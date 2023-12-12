@@ -4,7 +4,6 @@ contacts = {'Denis': '+38',
             'Alex': '+39',
             'Bob': '+40'}
 
-
 def main():
     while True:
         request = input('ur action\n>>>:')
